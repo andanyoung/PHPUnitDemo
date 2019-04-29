@@ -24,9 +24,11 @@ cd PHPUnitDemo
 phpunit
 
 ```
-### 运行最终结果  
+* 运行最终结果    
 
- ![运行最终结果](https://img-blog.csdnimg.cn/20190429172218569.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Fnb25pZTIwMTIxOA==,size_16,color_FFFFFF,t_70 =400x)
+<img src="https://img-blog.csdnimg.cn/20190429172218569.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Fnb25pZTIwMTIxOA==,size_16,color_FFFFFF,t_70" width="300" hegiht="200" align=center />
+
+  
 
 ## 文档引导
 
